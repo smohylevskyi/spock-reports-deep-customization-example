@@ -3,7 +3,6 @@ package customization
 import com.athaydes.spockframework.report.IReportCreator
 import com.athaydes.spockframework.report.internal.AbstractHtmlCreator
 import com.athaydes.spockframework.report.internal.FeatureRun
-import com.athaydes.spockframework.report.internal.HtmlReportAggregator
 import com.athaydes.spockframework.report.internal.ProblemBlockWriter
 import com.athaydes.spockframework.report.internal.SpecData
 import com.athaydes.spockframework.report.internal.SpecProblem
